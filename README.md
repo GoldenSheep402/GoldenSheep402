@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Here is GoldenSheep
 
-<!--
-**GoldenSheep402/GoldenSheep402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abount ME
+- Classic Music Lover
+- Like Pour-over coffee 
+- Lazy 
+- Want to RELAX and Travel
 
-Here are some ideas to get you started:
+## Learning
+- ![go](https://img.shields.io/badge/Golang-grey?style=plastic&logo=go) ![Py](https://img.shields.io/badge/Python-grey?style=plastic&logo=Python)
+- ![HTML5](https://img.shields.io/badge/HTML5-grey?style=plastic&logo=HTML5)![CSS3](https://img.shields.io/badge/CSS3-grey?style=plastic&logo=CSS3)![JS](https://img.shields.io/badge/JS-grey?style=plastic&logo=JavaScript)
+- ![Git](https://img.shields.io/badge/Git-grey?style=plastic&logo=git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Always
