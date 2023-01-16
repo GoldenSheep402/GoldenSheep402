@@ -1,13 +1,13 @@
 ### Hi there 👋 Here is GoldenSheep
 
-## Abount ME
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=GoldenSheep402&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true'/>
 
+## Abount ME
 - Classic Music Lover
 - Like Pour-over coffee 
 - Lazy 
 - Want to RELAX and TRAVEL
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenSheep402&show_icons=true&theme=tokyonight)
 
 ## Learning
 - ![go](https://img.shields.io/badge/Golang-grey?style=flat&logo=go) ![Py](https://img.shields.io/badge/Python-grey?style=flat&logo=Python)
