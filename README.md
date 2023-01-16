@@ -10,8 +10,8 @@
 
 
 ## Learning
-- ![go](https://img.shields.io/badge/Golang-grey?style=flat&logo=go) ![Py](https://img.shields.io/badge/Python-grey?style=flat&logo=Python)
-- ![HTML5](https://img.shields.io/badge/HTML5-grey?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS3-grey?style=flat&logo=CSS3) ![JS](https://img.shields.io/badge/JS-grey?style=flat&logo=JavaScript)
-- ![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
+- ![go](https://img.shields.io/badge/Golang-333333?style=flat&logo=go) ![Py](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=CSS3) ![JS](https://img.shields.io/badge/JS-333333?style=flat&logo=JavaScript)
+- ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 
 ## Always
