@@ -7,6 +7,7 @@
 - Like Pour-over coffee 
 - Lazy 
 - Want to RELAX and TRAVEL
+- I DON'T CARE!
 
 
 ## Learning
