@@ -7,7 +7,7 @@
 - Like Pour-over coffee 
 - Lazy 
 - Want to RELAX and TRAVEL
-- I DON'T CARE!
+- I DON'T CARE!  ~~| OMG NONONO~~
 
 
 ## Learning
