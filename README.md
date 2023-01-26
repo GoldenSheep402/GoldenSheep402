@@ -6,7 +6,7 @@
 - Classic Music Lover
 - Like Pour-over coffee 
 - Lazy 
-- Want to RELAX and TRAVEL
+- Want to RELAX and TRAVEL omgnononono
 - I DON'T CARE!
 
 
