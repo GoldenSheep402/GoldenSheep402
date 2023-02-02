@@ -8,8 +8,6 @@
 - Lazy 
 - Want to RELAX and TRAVEL
 - I DON'T CARE!
-- ~~?NO LIE~~
-
 
 ## Learning
 - ![go](https://img.shields.io/badge/Golang-333333?style=flat&logo=go) ![Py](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
