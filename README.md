@@ -1,6 +1,6 @@
 ### Hi there 👋 Here is GoldenSheep
 
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=GoldenSheep402&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true'/>
+<img align="right" src='https://github-readme-stats.vercel.app/api/?username=GoldenSheep402&layout=compact&count_private=true&show_icons=true&theme=tokyonight'/>
 
 ## Abount ME
 - Classic Music Lover
