@@ -8,14 +8,15 @@
 <div align="left">
   <p></p>
   <h3 align="left">Tech Stack📫</h3>
-  <img src="https://img.shields.io/badge/Golang-111f2c?style=for-the-badge&logo=go"/>
-  <img src="https://img.shields.io/badge/C-2d3834?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/Javascript-398FDC?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <p></p>
-  <img src="https://img.shields.io/badge/Python-0f203b?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Rust-F07416?style=for-the-badge&logo=rust"/>
-  <img src="https://img.shields.io/badge/Html-111f2c?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/Css3-5795cb?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
  
  <p></p>
