@@ -8,7 +8,7 @@
 <div align="left">
   <p></p>
   <h3 align="left">Tech Stack📫</h3>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/Golang-00599C?style=for-the-badge&logo=go"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <p></p>
