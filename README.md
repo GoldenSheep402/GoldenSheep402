@@ -34,6 +34,6 @@
  <p></p>
  <div>
   <img  src='https://github-readme-stats.vercel.app/api?username=GoldenSheep402&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true'/>
-<!--   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldensheep402&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula" /> -->
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldensheep402&layout=compact&langs_count=10&exclude_repo=risc-v-roam&theme=dracula" />
 </div>
 
