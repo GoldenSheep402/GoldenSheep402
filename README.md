@@ -1,11 +1,15 @@
 ### Hi 👋 Here is GoldenSheep
 
 
-<ul>
- <li> 🔭 Classic Music Lover
- <li> 🪄 Like Pour-over coffee 
- <li> 📡 Want to RELAX⚖️ and TRAVEL🏞️
-</ul>
+
+   🔭 Classic Music Lover
+ 
+   🪄 Like Pour-over coffee 
+ 
+   📡 Want to RELAX⚖️ and TRAVEL🏞️
+ 
+   🏡 Where to find me. [GS's Blog🏛️](https://www.glodensheep.top)
+
 <div align="left">
   <p></p>
   <h3 align="left">🔮 Tech Stack</h3>
