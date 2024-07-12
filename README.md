@@ -15,7 +15,7 @@
   <h3 align="left">🔮 Tech Stack</h3>
   <img src="https://img.shields.io/badge/Golang-00599C?style=for-the-badge&logo=go"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=Typescript&logoColor=black"/>
   <p></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
