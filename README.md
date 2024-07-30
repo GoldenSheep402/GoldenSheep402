@@ -10,6 +10,8 @@
  
    🏡 Where to find me. [GS's Blog🏛️](https://goldensheep.life)
 
+   🎯 日本語を勉強しています
+
 <div align="left">
   <p></p>
   <h3 align="left">🔮 Tech Stack</h3>
